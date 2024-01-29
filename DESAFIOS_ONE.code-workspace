@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../DESAFIOS_ONE"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "DESAFIOS_ONE"
+	}
+}
